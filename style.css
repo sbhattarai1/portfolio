@@ -92,7 +92,7 @@ PROJECT
 }
 
 #project .card img {
-  width: 100%;
+  max-width: 50%;
 }
 
 .project-video {
